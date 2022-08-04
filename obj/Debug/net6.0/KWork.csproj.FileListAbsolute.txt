@@ -1,0 +1,15 @@
+C:\Users\koshk.LAPTOP-1J3CRR18\Desktop\ГБ\KWork\bin\Debug\net6.0\KWork.exe
+C:\Users\koshk.LAPTOP-1J3CRR18\Desktop\ГБ\KWork\bin\Debug\net6.0\KWork.deps.json
+C:\Users\koshk.LAPTOP-1J3CRR18\Desktop\ГБ\KWork\bin\Debug\net6.0\KWork.runtimeconfig.json
+C:\Users\koshk.LAPTOP-1J3CRR18\Desktop\ГБ\KWork\bin\Debug\net6.0\KWork.dll
+C:\Users\koshk.LAPTOP-1J3CRR18\Desktop\ГБ\KWork\bin\Debug\net6.0\KWork.pdb
+C:\Users\koshk.LAPTOP-1J3CRR18\Desktop\ГБ\KWork\obj\Debug\net6.0\KWork.csproj.AssemblyReference.cache
+C:\Users\koshk.LAPTOP-1J3CRR18\Desktop\ГБ\KWork\obj\Debug\net6.0\KWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koshk.LAPTOP-1J3CRR18\Desktop\ГБ\KWork\obj\Debug\net6.0\KWork.AssemblyInfoInputs.cache
+C:\Users\koshk.LAPTOP-1J3CRR18\Desktop\ГБ\KWork\obj\Debug\net6.0\KWork.AssemblyInfo.cs
+C:\Users\koshk.LAPTOP-1J3CRR18\Desktop\ГБ\KWork\obj\Debug\net6.0\KWork.csproj.CoreCompileInputs.cache
+C:\Users\koshk.LAPTOP-1J3CRR18\Desktop\ГБ\KWork\obj\Debug\net6.0\KWork.dll
+C:\Users\koshk.LAPTOP-1J3CRR18\Desktop\ГБ\KWork\obj\Debug\net6.0\refint\KWork.dll
+C:\Users\koshk.LAPTOP-1J3CRR18\Desktop\ГБ\KWork\obj\Debug\net6.0\KWork.pdb
+C:\Users\koshk.LAPTOP-1J3CRR18\Desktop\ГБ\KWork\obj\Debug\net6.0\KWork.genruntimeconfig.cache
+C:\Users\koshk.LAPTOP-1J3CRR18\Desktop\ГБ\KWork\obj\Debug\net6.0\ref\KWork.dll
